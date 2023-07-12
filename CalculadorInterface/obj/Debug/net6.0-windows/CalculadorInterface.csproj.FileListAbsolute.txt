@@ -1,0 +1,17 @@
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\bin\Debug\net6.0-windows\CalculadorInterface.exe
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\bin\Debug\net6.0-windows\CalculadorInterface.deps.json
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\bin\Debug\net6.0-windows\CalculadorInterface.runtimeconfig.json
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\bin\Debug\net6.0-windows\CalculadorInterface.dll
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\bin\Debug\net6.0-windows\CalculadorInterface.pdb
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\obj\Debug\net6.0-windows\CalculadorInterface.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\obj\Debug\net6.0-windows\CalculadorInterface.Form1.resources
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\obj\Debug\net6.0-windows\CalculadorInterface.csproj.GenerateResource.cache
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\obj\Debug\net6.0-windows\CalculadorInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\obj\Debug\net6.0-windows\CalculadorInterface.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\obj\Debug\net6.0-windows\CalculadorInterface.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\obj\Debug\net6.0-windows\CalculadorInterface.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\obj\Debug\net6.0-windows\CalculadorInterface.dll
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\obj\Debug\net6.0-windows\refint\CalculadorInterface.dll
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\obj\Debug\net6.0-windows\CalculadorInterface.pdb
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\obj\Debug\net6.0-windows\CalculadorInterface.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\C#\CalculadorInterface\CalculadorInterface\obj\Debug\net6.0-windows\ref\CalculadorInterface.dll
